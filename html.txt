@@ -1,0 +1,39 @@
+<html>
+	<head>
+    
+    <style>
+    	#f1{
+        	color:red;
+            text-align:center;
+            font-size:50px;
+            font-family:comic sans ms;
+        }
+        .f2{
+        	color:blue;
+        }
+    
+    	#div-1{
+        	border:1px solid black;
+            margin-top:30px;
+            margin-bottom:20px;
+            background-color:blue;
+        }
+        .div-2{
+        	border:1px solid black;
+        }
+    </style>
+  	</head>
+    
+    <body>
+    
+    	<div id="div-1">
+        	<h1 id="f1">H1 Tag</h1>
+        </div>
+        
+        
+    	<div class="div-2">
+        	<h1 class="f2">H2 Tag</h1>
+        </div>
+    
+    </body>
+</html>
